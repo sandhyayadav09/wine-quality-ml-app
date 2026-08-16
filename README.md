@@ -62,8 +62,7 @@ scores ~86%), which is exactly why AUC, F1 and MCC are the metrics I trust most.
 
 > **Repo:** https://github.com/sandhyayadav09/wine-quality-ml-app
 
-**Live Streamlit app:** `https://<your-app-name>.streamlit.app`
-_(replace with the URL Streamlit gives you after deploying)_
+**Live Streamlit app:** https://wine-quality-ml-app-mtech.streamlit.app/
 
 ### Repository structure
 
